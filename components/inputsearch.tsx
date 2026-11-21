@@ -4,7 +4,7 @@ type CardProps = {
   name: string;
 };
  
-export default function Greeting({
+export default function inputsearch({
     name
 }: CardProps){
   return (
